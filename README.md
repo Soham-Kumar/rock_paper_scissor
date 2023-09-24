@@ -9,3 +9,9 @@ The proposed architecture has the following steps:
 3. Object Classification: The identified Regions of Interest are passed through two CNN layers, as proposed in OverFeat. This step provides us with the classification of objects within the bounding boxes, categorizing them as Rock, Paper, or Scissor.
 
 Currently only the first step is partially completed.
+
+References:
+1. Fast R-CNN : https://arxiv.org/abs/1504.08083
+2. Faster R-CNN : https://arxiv.org/abs/1506.01497
+3. OverFeat : https://arxiv.org/abs/1312.6229
+4. EfficientNet : https://arxiv.org/abs/1905.11946
